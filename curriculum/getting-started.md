@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2023-08-20T20:56:04.835Z
+date: 2023-08-20T20:56:26.242Z
 tags: curriculum
 editor: markdown
 dateCreated: 2023-01-24T20:30:46.758Z
@@ -48,6 +48,7 @@ This section, [Other Topics](/curriculum/other),  covers a vast array of topics 
 - Web Application Testing
 - Cisco Networking
 - Boeing Challenge
+- Stradegy Building
 
 </br>
 </br>
