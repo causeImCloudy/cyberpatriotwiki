@@ -2,7 +2,7 @@
 title: User and Group Management
 description: 
 published: true
-date: 2023-07-15T14:46:19.186Z
+date: 2023-08-20T20:52:48.501Z
 tags: curriculum, basic, user management, group management
 editor: markdown
 dateCreated: 2023-07-07T21:47:34.017Z
@@ -19,7 +19,7 @@ Unsecured user accounts are the largest vulnerability currently in the Cybersecu
 
 - [Windows](/curriculum/basics/user-group-management/windows#user-management)
 - [Linux](/curriculum/basics/user-group-management/linux#user-management)
-
+{.links-list}
 
 # Group Management
 A Group refers to a collection of users who share the same access rights or attribute to specific systems within an organization.
@@ -30,7 +30,7 @@ This concept is crucial in large organizations where hundreds or thousands of us
   
 - [Windows](/curriculum/basics/user-group-management/windows#group-management)
 - [Linux](/curriculum/basics/user-group-management/linux#group-management)
-
+{.links-list}
 
 
 
