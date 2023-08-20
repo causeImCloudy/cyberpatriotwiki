@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2023-07-03T03:34:43.960Z
+date: 2023-08-20T20:56:04.835Z
 tags: curriculum
 editor: markdown
 dateCreated: 2023-01-24T20:30:46.758Z
@@ -30,7 +30,7 @@ The next section in the Curriculm category is [**The Basics**](/curriculum/basic
 
 ### Advanced Concepts
 The [Advanced Concepts](/curriculum/advanced) section will take you through more advanced topics that are not always black and white; they will require you to do more research and use critical thinking to find and fix them.
-The topics you will learn and the research you will do, will bring you closer to understanding OS internals and keeping computers secure from advance threats. Due to the vast difference in how Linux and Windows build their core systems the topics for this section will vary for each operating system, rest assure both are covered with lots of detail. Some general topics include (this is not all the topics):
+The topics you will learn and the research you will do, will bring you closer to understanding OS internals and keeping computers secure from advance threats. Due to the vast difference in how Linux and Windows build their core systems the topics for this section will vary for each operating system, rest assure both are covered with lots of detail. Some general topics include:
 - Securing Applications
 - Incident Response Techniques
 - Strategy Building
