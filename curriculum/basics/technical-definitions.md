@@ -82,7 +82,7 @@ This page serves as a basic intro, there are many more terms to know. If you can
 
 33. **TLS (Transport Layer Security)** - A protocol that ensures privacy between communicating applications and their users on the internet.
 
-34. **TTP (Tactics, Techniques, and Procedures)** - The behavior of an adversary, such as a cyber attacker or an intruder.
+34. **TTP (Tactics, Techniques, and Procedures)** - The behavior of an adversary, such as a cyberattacker or an intruder.
 
 35. **UEBA (User and Entity Behavior Analytics)** - Cybersecurity process about detection of insider threats, targeted attacks, and financial fraud.
 

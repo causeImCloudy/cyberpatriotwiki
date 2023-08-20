@@ -21,7 +21,7 @@ The /etc/passwd file on Linux systems contain the list of users and some of thei
 2. Run the command `cat /etc/passwd`
 3. Run the command `awk -F: '{ print $1, $3, $4, $6 }' /etc/passwd`
 
-The first command `cat /etc/passwd` displays the whole passwd file, which contains a lot of data. The second command `awk -F: '{ print $1, $3, $4, $6 }' /etc/passwd` will trim the content of the file and only print out the Username, User ID, Group ID, and Home Path. These are typically the most usefull entries within the passwd file.
+The first command `cat /etc/passwd` displays the whole passwd file, which contains a lot of data. The second command `awk -F: '{ print $1, $3, $4, $6 }' /etc/passwd` will trim the content of the file and only print out the Username, User ID, Group ID, and Home Path. These are typically the most usefully entries within the passwd file.
 
 - Username: A username in Linux is an identifier for a specific user account. Each user account in the system has a unique username associated with it.
 - User ID (UID): Each user must be assigned a user ID (UID). UID 0 (zero) is reserved for root and UIDs 1-99 are reserved for other predefined accounts. Further UID 100-999 are reserved by system for administrative and system accounts/groups. User accounts typically start at 1000.
@@ -77,8 +77,8 @@ Disable the Guest Account:
 
 <br>
 
-## Pasword Expiration
-Unlike Windows, each user can have it's own password policies assigned to it. The default password policies is applied when the user is created or when their password changes.
+## Password Expiration
+Unlike Windows, each user can have its own password policies assigned to it. The default password policies is applied when the user is created or when their password changes.
 
 1. Open the `Terminal`
 2. Run the command `chage -m 7 -M 90 -W 14 -d 0 [USERNAME]`
@@ -89,7 +89,7 @@ This command will set a minimum age of 7, maximum age of 90, warn age of 14, and
 
 ## Checklist
 - [ ] Verify only authorized users exist.
-- [ ] Set a secure password for each users.
+- [ ] Set a secure password for each user.
 - [ ] Set the password policy for each user
 - [ ] Secure the Guest account
 - [ ] Create Users if specified in the Read Me
@@ -102,9 +102,9 @@ This command will set a minimum age of 7, maximum age of 90, warn age of 14, and
 ## The etc-group file
 Similar to Windows, users can be placed into groups to manage permissions easier.
 
-To check the groups, within an terminal window as root, enter cat /etc/group
+To check the groups, within a terminal window as root, enter cat /etc/group
 
-Like the /etc/passwd file, this file is setup like a spreadsheet with columns, only instead of nice lines, each column is delimited with a colon `:`.
+Like the /etc/passwd file, this file is set up like a spreadsheet with columns, only instead of nice lines, each column is delimited with a colon `:`.
 
 
 For each Cyber Patriot round you should check the following for all groups:
@@ -116,7 +116,7 @@ For each Cyber Patriot round you should check the following for all groups:
 <br>
 
 ## Sudoers
-Any command that requires "Administrative" rights must be ran as root. If you remember, you had to use `sudo` to switch users to the root user. That's because the root users requires a higher level of permission to login to. The specific set of users that are allowed to use Sudo are called Sudoers.
+Any command that requires "Administrative" rights must be run as root. If you remember, you had to use `sudo` to switch users to the root user. That's because the root users requires a higher level of permission to log in to. The specific set of users that are allowed to use Sudo are called Sudoers.
 
 Linux is set up by default to use two user groups as Sudoers, the sudo and adm groups. That's why in topic 7, we said check those groups.
 
@@ -125,8 +125,8 @@ There are two places to you should check for Sudoers, the /etc/sudoers file and 
 To check the /etc/sudoers file:
 1. Open the `Terminal`
 2. Run the command `visudo /etc/sudoers`
-3. All lines begining with a number sign `#` can be ignored these are comments.
-4. All lines begining with a percent sign `%` are group names.
+3. All lines beginning with a number sign `#` can be ignored these are comments.
+4. All lines beginning with a percent sign `%` are group names.
     1. Only authorized groups should be present (sudo and adm are the default groups). 
     2. Delete unauthorized groups. 
 5. All lines not starting with a symbol or `Defaults` are usernames. The only username should be root.

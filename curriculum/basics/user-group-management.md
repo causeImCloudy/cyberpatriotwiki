@@ -15,7 +15,7 @@ This section will guide you through each of the topics for securing the local us
 
 
 # User Management
-Unsecured user accounts are the largest vulnerability currently in the Cyber Security field. Since there will always be Human Error, there is almost no way to fix this vulnerability, however, we can setup permissions, settings, and policies to mitigate some of the potential exploitable accounts. For this section, we will be working on the Permissions and Settings.
+Unsecured user accounts are the largest vulnerability currently in the Cybersecurity field. Since there will always be Human Error, there is almost no way to fix this vulnerability, however, we can set up permissions, settings, and policies to mitigate some of the potential exploitable accounts. For this section, we will be working on the Permissions and Settings.
 
 - [Windows](/curriculum/basics/user-group-management/windows#user-management)
 - [Linux](/curriculum/basics/user-group-management/linux#user-management)
