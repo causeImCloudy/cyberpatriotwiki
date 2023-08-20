@@ -18,7 +18,7 @@ Cybersecurity is the art of protecting networks, devices, and data from unauthor
 
 <br>
 
-### Why is Cyber Security Important
+### Why is Cybersecurity Important
 
 In an era where almost every aspect of our daily life relies heavily on technology, from communication tools like email, smartphones, and tablets, to transportation navigation systems, online shopping, entertainment such as interactive video games, and social media apps, the importance of cybersecurity can't be overstated. The medical field is no exception, with medical equipment operation and medical records storage increasingly dependent on technology.
 
@@ -26,7 +26,7 @@ These advancements underscore the vast amounts of personal and sensitive data st
 
 <br>
 
-### What happens when you have bad Cyber Security?
+### What happens when you have bad Cybersecurity?
 
 There are many risks, some more serious than others. Among these dangers are malware erasing your entire system, an attacker breaking into your system and altering files, an attacker using your computer to attack others, or an attacker stealing your credit card information and making unauthorized purchases. There is no guarantee that even with the best precautions some of these things won't happen to you, but there are steps you can take to minimize the chances.
 <sub>[CISA.gov](https://www.cisa.gov/news-events/news/what-cybersecurity)</sub>
@@ -34,7 +34,7 @@ There are many risks, some more serious than others. Among these dangers are mal
 <br>
 
 ### Who is Hiring? 
-Nearly every organization needs cybersecurity professionals, and most company's are required to spend a large percentage of thier budget on Cyber Security.
+Nearly every organization needs cybersecurity professionals, and most companies are required to spend a large percentage of their budget on Cybersecurity.
 
 Cybersecurity jobs are better paid that computer jobs in general. In 2018 the average computer job paid ~$90,000. People in cybersecurity-specific jobs earned an average salary of over $100,000.
 ![screenshot_2023-07-07_at_10.31.09_am.png](/screenshot_2023-07-07_at_10.31.09_am.png)
@@ -54,14 +54,14 @@ The CIA Triad is a framework used in cybersecurity to help us understand the mai
 2. **Integrity**: Maintaining the accuracy and consistency of data, preventing unauthorized changes.
 3. **Availability**: Making sure that authorized users have access to the data and resources when they need them.
 
-> The CIA triad is an important concept which is the core of Cyber Security.
+> The CIA triad is an important concept which is the core of Cybersecurity.
 {.is-info}
 
 <br>
 
 ### IAAA (Triple A)
 
-Triple A is the other major pillar of Cyber Security. The I is sometime left off of this acryonm. This acryonm deals with user management, as detailed below:
+Triple A is the other major pillar of Cybersecurity. The I is sometime left off of this acronym. This acronym deals with user management, as detailed below:
 
 1. **Identity**: The process of a user claiming or professing an identity. This is usually done through a unique identifier, like a username or an email address.
 2. **Authentication**: The process of verifying the identity of a user, device, or system. This is usually done through a username, password combo.
@@ -90,7 +90,7 @@ Risk, in terms of CyberSecurity, refers to the potential for loss or harm relate
 
 Cybersecurity risk management is a key aspect of an organization's risk management strategy, aiming to minimize risks through the proper implementation of security controls and measures, regular security assessments and audits, employee training, and incident response planning.
 
-Risk management is what drives the Cyber Security program at every company. Risk is what the business understands, and is the langauge of upper management. 
+Risk management is what drives the Cybersecurity program at every company. Risk is what the business understands, and is the langauge of upper management. 
 
 <br>
 
