@@ -9,7 +9,7 @@ dateCreated: 2023-02-17T02:26:02.898Z
 ---
 
 
-Welcome to the Cyber Patriot Wiki's section of Advanced Concepts. This section focuses on the deep internals of the operating system and the multitude of secure settings for a system and all of it's services.
+Welcome to the Cyber Patriot Wiki's section of Advanced Concepts. This section focuses on the deep internals of the operating system and the multitude of secure settings for a system and all of its services.
 
 <br>
 
@@ -24,14 +24,12 @@ Welcome to the Cyber Patriot Wiki's section of Advanced Concepts. This section f
 
 - [Mail Server](/curriculum/advanced/mail-servers.md)
 	Learn how to configure and manage multiple types of mail servers.
-
-- [Windows Registry](/curriculum/advanced/windows-registry.md)
-	Learn all about the Windows Registry and how it is used to configure the Windows OS.
-
-- [PAM Files](/curriculum/advanced/pam-files.md)
-	PAM Files and more generally linux configuration file.
   
 - [Strategy Building](/curriculum/advanced/strategy-building.md)
 	Learn how to take everything you have learned and build it into a stradegy.
 
 {.links-list}
+
+
+> If you have another topic which you would like discussed shoot your coach an email or open an issue directly on [GitHub](https://github.com/causeImCloudy/cyberpatriotwiki/issues).
+{.is-info}

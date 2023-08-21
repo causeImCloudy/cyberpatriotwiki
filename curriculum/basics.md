@@ -13,7 +13,7 @@ Welcome to the Cyber Patriot Wiki's section on The Basics. These sections start 
 
 <br>
 
-- [Cyber Security Basics](/curriculum/basics/cyber-security-basics)
+- [Cybersecurity Basics](/curriculum/basics/cyber-security-basics)
 	An introduction to the core concepts of cybersecurity, including the CIA triad, threat actors, and common attack techniques.
 
 - [Technical Definitions](/curriculum/basics/technical-definitions.md)
@@ -25,13 +25,10 @@ Welcome to the Cyber Patriot Wiki's section on The Basics. These sections start 
 - [OS Application Management](/curriculum/basics/os-application-management.md)
 	Understand how to securely install, configure, and manage applications on Linux and Windows operating systems.
 
-- [OS Policies and Services](/curriculum/basics/os-policies-and-services.md)
+- [OS Policies, Services, and Settings](/curriculum/basics/os-policies-services-and-settings.md)
 	Explore operating system policies, security configurations, and the management of system services for Linux and Windows.
 
 - [Firewalls](/curriculum/basics/firewalls.md)
 	Learn about firewalls, their role in network security, and how to configure them for both Linux and Windows operating systems.
-
-- [Business Best Practices](/curriculum/basics/business-best-practices.md)
-	Discover the best practices in implementing cybersecurity policies, risk management, and incident response for businesses.
 
 {.links-list}
