@@ -2,7 +2,7 @@
 title: OS Policies, Services, and Settings
 description: 
 published: true
-date: 2023-08-21T03:18:35.672Z
+date: 2023-08-21T03:18:46.507Z
 tags: curriculum, basic
 editor: markdown
 dateCreated: 2023-08-20T20:29:59.519Z
@@ -20,7 +20,7 @@ To fully understand how policies and services work we will need to dive into the
 
 Windows policies and services form integral components of the Windows operating system, governing user privileges, system operations, and various functionalities. Policies, often managed through Group Policy, allow administrators to control settings across computers and users in an Active Directory environment, ensuring security and operational consistency. Services, on the other hand, are background processes that run to support or provide Windows features, such as updates or networking. Proper management and understanding of these tools ensure a smooth and secure Windows operating environment.
 
-- [Windows](/os-policies-services-and-settings/windows.md)
+- [Windows](./os-policies-services-and-settings/windows.md)
 {.links-list}
 
 <br>
