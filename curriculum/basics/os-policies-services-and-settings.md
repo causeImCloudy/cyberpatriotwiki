@@ -2,7 +2,7 @@
 title: OS Policies, Services, and Settings
 description: 
 published: true
-date: 2023-08-21T03:16:21.615Z
+date: 2023-08-21T03:18:35.672Z
 tags: curriculum, basic
 editor: markdown
 dateCreated: 2023-08-20T20:29:59.519Z
@@ -32,5 +32,5 @@ Linux policies and services are foundational elements of the Linux ecosystem, de
 > For the sake of this wiki we will focus on Ubuntu, but each Linux flavor has similar concepts covered by different programs.
 {.is-info}
 
-- [Linux](./os-policies-serivces-and-settings/linux)
+- [Linux](./os-policies-services-and-settings/linux)
 {.links-list}
