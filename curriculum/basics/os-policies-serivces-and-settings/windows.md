@@ -1,9 +1,11 @@
 ---
-title: Windows
+title: OS Policies, Services, and Settings for Windows
 description: 
 published: true
+date: 2023-08-21T03:20:02.398Z
 tags: curriculum, basic, windows
 editor: markdown
+dateCreated: 2023-08-21T03:09:03.258Z
 ---
 
 # Windows Features and Control Panel
