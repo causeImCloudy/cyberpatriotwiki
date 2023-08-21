@@ -1,8 +1,8 @@
 ---
-title: OS Policies and Services
+title: OS Policies, Services, and Settings
 description: 
 published: true
-date: 2023-08-20T20:51:32.428Z
+date: 2023-08-21T03:13:11.602Z
 tags: curriculum, basic
 editor: markdown
 dateCreated: 2023-08-20T20:29:59.519Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-20T20:29:59.519Z
 
 Policies and Services are the underlying configurations that keep the operating system and all its features running. Both Linux and Windows have a variety of different names for these which will go into more detail on each page. 
 
-To fully understand how policies and services work we will need to dive into there function specific to each operating system. As there are literal thousands of settings on both Windows and Linux we will not be covering all of them, but will focus on the most common within the CyberPatriot competition.
+To fully understand how policies and services work we will need to dive into there function specific to each operating system.
 
 <br>
 
