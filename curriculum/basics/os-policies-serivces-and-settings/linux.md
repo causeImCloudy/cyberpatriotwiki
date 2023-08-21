@@ -1,9 +1,11 @@
 ---
-title: Windows
+title: OS Policies, Services, and Settings for Linux
 description: 
 published: true
+date: 2023-08-21T03:15:51.615Z
 tags: curriculum, basic, linux
 editor: markdown
+dateCreated: 2023-08-21T03:08:59.650Z
 ---
 
 # Linux Security Modules (LSM)
