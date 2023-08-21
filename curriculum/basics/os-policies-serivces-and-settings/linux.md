@@ -2,7 +2,7 @@
 title: OS Policies, Services, and Settings for Linux
 description: 
 published: true
-date: 2023-08-21T03:15:51.615Z
+date: 2023-08-21T03:18:06.480Z
 tags: curriculum, basic, linux
 editor: markdown
 dateCreated: 2023-08-21T03:08:59.650Z
