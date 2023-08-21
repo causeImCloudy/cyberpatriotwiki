@@ -2,12 +2,11 @@
 title: The Basics
 description: 
 published: true
-date: 2023-08-20T20:48:28.903Z
+date: 2023-08-21T03:11:37.366Z
 tags: curriculum, basic
 editor: markdown
 dateCreated: 2023-02-09T23:00:57.604Z
 ---
-
 
 Welcome to the Cyber Patriot Wiki's section on The Basics. These sections start off with a soft intro into computers, why Cyber Security is important, some technical defenitions, and then focuses on the fundamentals of hardening both Linux and Windows operating systems. 
 
