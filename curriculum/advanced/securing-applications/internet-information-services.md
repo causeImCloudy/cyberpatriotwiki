@@ -1,13 +1,10 @@
 ---
-title: Strategy Building
+title: Internet Information Services (IIS)
 description: 
 published: true
-date: 2023-06-30T20:09:46.467Z
 tags: curriculum, advanced
 editor: markdown
-dateCreated: 2023-06-30T20:09:44.097Z
 ---
-
 
 > In Progress...
 {.is-warning}
