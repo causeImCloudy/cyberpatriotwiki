@@ -2,7 +2,7 @@
 title: Practice Images
 description: 
 published: true
-date: 2023-08-23T14:23:34.260Z
+date: 2023-08-23T14:43:45.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T03:42:23.753Z
@@ -11,7 +11,9 @@ dateCreated: 2023-01-25T03:42:23.753Z
 # Introduction
 This section serves as a resource for downloading training images. CyberPatriot images are images provided by CyberPatriot, while all other images are created by the coaches and mentors.
 
-Golden Images are images which have been not been touched past initial configuration and can be used as a reference or to build new images. 
+Golden Images are images which have been not been touched past initial configuration and can be used as a reference or to build new images.
+
+Other resources are external websites that provide game like challenges in the cybersecurity feild. 
 
 <br/>
 
