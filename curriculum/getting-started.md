@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2023-08-20T20:56:26.242Z
+date: 2023-08-23T15:37:35.538Z
 tags: curriculum
 editor: markdown
 dateCreated: 2023-01-24T20:30:46.758Z
@@ -24,7 +24,6 @@ The next section in the Curriculm category is [**The Basics**](/curriculum/basic
 - OS Application Management
 - OS Policies and Services
 - Firewalls
-- Bussiness Best Practices
 </br>
 </br>
 
@@ -36,8 +35,6 @@ The topics you will learn and the research you will do, will bring you closer to
 - Strategy Building
 - Active Directory
 - Mail Servers
-- Windows Registry
-- PAM Files
 </br>
 </br>
 
