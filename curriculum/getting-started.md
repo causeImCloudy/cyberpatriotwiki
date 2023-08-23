@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2023-08-23T15:37:35.538Z
+date: 2023-08-23T15:52:58.338Z
 tags: curriculum
 editor: markdown
 dateCreated: 2023-01-24T20:30:46.758Z
