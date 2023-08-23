@@ -2,14 +2,17 @@
 title: Practice Images
 description: 
 published: true
-date: 2023-05-03T18:04:06.828Z
+date: 2023-08-23T14:23:34.260Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T03:42:23.753Z
 ---
 
-# Practice Images
-<br/>
+# Introduction
+This section serves as a resource for downloading training images. CyberPatriot images are images provided by CyberPatriot, while all other images are created by the coaches and mentors.
+
+Golden Images are images which have been not been touched past initial configuration and can be used as a reference or to build new images. 
+
 <br/>
 
 ## Cyber Patriot Images
