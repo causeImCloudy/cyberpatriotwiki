@@ -23,23 +23,23 @@ Scripting is a type of programming that automates a series of tasks in a compute
 # Programming
 While there are endless resources available on the internet much better at teaching programming, this section serve as a crash course in programming that focuses on the applicability to the CyberPatriot competition. It is strongly recommend to go through this section in order but if you already have an understanding feel free to skip forward past the introduction sections.
 
-- [Introduction to Programming](./programming/introduction-to-python.md)
+- [Introduction to Programming](./scripting-and-programming/introduction-to-programming.md)
   - What is programming? Why Python? 
   - Installing Python and setting up the development environment
   - Basic Syntax and Structure
-- [The Basics of Python](./programming/basics-of-python.md)
+- [The Basics of Python](./scripting-and-programming/basics-of-python.md)
   - Variables and Data Types
   - Basic Operators
   - Control Structures
   - Functions
-- [Advanced Usage of Python](./programming/advanced-usage-of-python.md)
+- [Advanced Usage of Python](./scripting-and-programming/advanced-usage-of-python.md)
   - Data Structures
   - Object-Oriented Programming (OOP)
   - External Libraries 
-- [CyberPatriot Scripts](./programming/cyberpatriot-scripts.md)
+- [CyberPatriot Scripts](./scripting-and-programming/cyberpatriot-scripts.md)
   - Interactive Scripts
   - Cross Compatible Scripts
   - Users and Groups
   - File Interactions
-- [Additional Resources](./programming/addtional-resources.md)
+- [Additional Resources](./scripting-and-programming/addtional-resources.md)
 

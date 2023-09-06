@@ -1,8 +1,8 @@
 ---
-title: Basic Operators
+title: File Interactions
 description: 
 published: true
-tags: curriculum, other, programming
+tags: curriculum, other, scripting-and-programming
 editor: markdown
 ---
 

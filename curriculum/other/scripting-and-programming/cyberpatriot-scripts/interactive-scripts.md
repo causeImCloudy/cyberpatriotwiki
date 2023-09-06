@@ -1,8 +1,8 @@
 ---
-title: Object-Oriented Programming
+title: Interactive Scripts
 description: 
 published: true
-tags: curriculum, other, programming
+tags: curriculum, other, scripting-and-programming
 editor: markdown
 ---
 

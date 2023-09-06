@@ -1,8 +1,8 @@
 ---
-title: Additional Resources
+title: Users and Groups
 description: 
 published: true
-tags: curriculum, other, programming
+tags: curriculum, other, scripting-and-programming
 editor: markdown
 ---
 

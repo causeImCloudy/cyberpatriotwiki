@@ -1,8 +1,8 @@
 ---
-title: Basic Syntax and Structure
+title: External Libraries
 description: 
 published: true
-tags: curriculum, other, programming
+tags: curriculum, other, scripting-and-programming
 editor: markdown
 ---
 
