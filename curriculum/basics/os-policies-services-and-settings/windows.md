@@ -51,3 +51,11 @@ Outside the above policies and configuration options, Windows also has a variety
 {.links-list}
 
 <br> 
+
+# Windows Updates
+Outside the above policies and configuration options, Windows also has a variety of files and databases located around the operating system that also help in the day-to-day operations of the OS. Some of these are options which can help you with forensic questions, others are configurations options you will need to check every round. 
+- [Windows HOSTS File](./windows/windows-hosts-file)
+- [Windows SAM Files](./windows/windows-sam-files)
+{.links-list}
+
+<br> 

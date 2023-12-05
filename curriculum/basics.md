@@ -27,6 +27,9 @@ Welcome to the Cyber Patriot Wiki's section on The Basics. These sections start 
 - [OS Policies, Services, and Settings](/curriculum/basics/os-policies-services-and-settings.md)
 	Explore operating system policies, security configurations, and the management of system services for Linux and Windows.
 
+- [Business Best Practice](/curriculum/basics/business-best-practice.md)
+	Take some steps CyberPatriot considers to be business best practice. 
+
 - [Firewalls](/curriculum/basics/firewalls.md)
 	Learn about firewalls, their role in network security, and how to configure them for both Linux and Windows operating systems.
 

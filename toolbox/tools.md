@@ -19,4 +19,6 @@ Here is a list of commonly used tools. This section will be updated from time to
 - [Cyber Chef](./tools/cyberchef
 - [Process Monitor](./tools/process-monitor)
 - [ImHex(HexEditor)](./tools/imhex)
+- [OSINT Framework](./tools/OSINTFramework)
+- [OSINT Dojo](https://www.osintdojo.com/resources/)
 
