@@ -51,6 +51,14 @@ Linux file permissions form the foundational layer of security for files and dir
 
 <br> 
 
+
+# Linux Updates and Settings
+Linux's systems just like windows should always be kept update date with auto updates enabled. 
+- [Linux Updates](/linux/linus-updates)
+{.links-list}
+
+<br> 
+
 # Miscellaneous Linux Settings
 Every configuration for Linux systems are housed in a file somewhere on the system. A lot of these files function similarly to the Windows registry. Below are a list of a few you should take look at but dont fall into any specific categories. 
 - [Linux MISC](/linux/misc-settings)

@@ -10,17 +10,15 @@ dateCreated: 2023-08-20T20:29:59.519Z
 
 # Introduction
 
-Policies and Services are the underlying configurations that keep the operating system and all its features running. Both Linux and Windows have a variety of different names for these which will go into more detail on each page. 
-
-To fully understand how policies and services work we will need to dive into there function specific to each operating system.
+As a part of cybersecurity there are other actions which do not directly enhance the security of a system, but are considered to be Business Best Practice. Implementing these practices helps in creating a robust cybersecurity framework that not only protects a business's digital assets but also enhances its credibility and trust with customers and stakeholders. Each business defines what is best practice for them, some companies require social media sites to be blocked while for others its imperative to the services they offer.
 
 <br>
 
-# Windows
+## Prohibited Files
 
-Windows policies and services form integral components of the Windows operating system, governing user privileges, system operations, and various functionalities. Policies, often managed through Group Policy, allow administrators to control settings across computers and users in an Active Directory environment, ensuring security and operational consistency. Services, on the other hand, are background processes that run to support or provide Windows features, such as updates or networking. Proper management and understanding of these tools ensure a smooth and secure Windows operating environment.
+Prohibited files in a business context refer to any type of digital content that is not permitted within the company's network due to security, legal, or ethical reasons. These often include files containing malicious software, pirated software or media, inappropriate or offensive content, and confidential data from external sources without proper authorization. The restriction of such files is crucial to maintain cybersecurity, comply with legal and regulatory standards, and uphold the company's ethical and professional standards.
 
-- [Windows](/os-policies-and-services/windows.md)
+- [Windows](/business-best-practice/windows.md)
 {.links-list}
 
 <br>
@@ -32,5 +30,5 @@ Linux policies and services are foundational elements of the Linux ecosystem, de
 > For the sake of this wiki we will focus on Ubuntu, but each Linux flavor has similar concepts covered by different programs.
 {.is-info}
 
-- [Linux](/os-policies-and-services/linux.md)
+- [Linux](/business-best-practice/linux.md)
 {.links-list}

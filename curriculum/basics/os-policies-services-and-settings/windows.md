@@ -18,6 +18,7 @@ Windows Features and the Control Panel are essential tools within the Microsoft 
 # Group Policy
 Group Policy is a function in Windows which helps control what features are accessible to the user. There are a variety of options which we should set in general for security, but there may also be some specific Group Policy Objects (GPO) that need to be set for items specified in the Read Me. Cyber Patriot is also known to mess with GPOs to make your job much harder.
 - [Group Policy](./windows/group-policy)
+- [Security Options](./windows/group-policy-security-options)
 {.links-list}
 
 <br>
@@ -53,9 +54,8 @@ Outside the above policies and configuration options, Windows also has a variety
 <br> 
 
 # Windows Updates
-Outside the above policies and configuration options, Windows also has a variety of files and databases located around the operating system that also help in the day-to-day operations of the OS. Some of these are options which can help you with forensic questions, others are configurations options you will need to check every round. 
-- [Windows HOSTS File](./windows/windows-hosts-file)
-- [Windows SAM Files](./windows/windows-sam-files)
+Windows operating system updates are regular releases from Microsoft that provide enhancements, security patches, and bug fixes to improve the performance and security of the Windows environment. These updates are crucial for protecting against vulnerabilities, ensuring compatibility with new technologies, and optimizing the overall user experience.
+- [Windows HOSTS File](./windows/windows-updates)
 {.links-list}
 
 <br> 

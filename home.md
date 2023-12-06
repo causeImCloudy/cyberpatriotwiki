@@ -72,7 +72,20 @@ Well thats what we are here to teach you. Lets get started with some resources!
 <br />
 <br />
 
-The current comeptition will run from 
+The current competition will run from October 19, 2023, to January 20, 2024
+
+| Round       | Dates                          | 
+|-------------|--------------------------------|
+| Round 1     | October 19 - October 23, 2023  |
+| Round 2     | November 2 - November 6, 2023  |
+| State Round | December 7 - December 11, 2023 |
+| Semi Finals | January 18 - January 20, 2024  |
+| Finals      | March 15-19, 2024              |
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%233F51B5&ctz=America%2FChicago&showTitle=0&src=Y19mNDMyZDQ0OTk0N2U5MzM5ZTdmNmM2OGMxYjFhNDE4MzRlYjQ5MzhhODEwMzZlNzkwYWE5YzQ5Y2RiOTE3YmE1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 
 
 

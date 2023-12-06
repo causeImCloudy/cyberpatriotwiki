@@ -1,5 +1,5 @@
 ---
-title: OS Application Management for Linux
+title: Business Best Practice for Linux
 description: 
 published: true
 date: 2023-08-17T03:15:16.465Z
